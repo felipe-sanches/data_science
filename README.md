@@ -7,9 +7,10 @@
 
 # Felipe Sanches
 <sub>*Aluno Pesquisador na UFBA - Universidade Federal da Bahia</sub>
+Computer student.
+Researcher in the areas of Free Software, Data Science, Protection of Personal Data (General Law for the Protection of Personal Data - LGPD and Marco Civil da Internet) and Administration of Linux Servers.
 
-
-**Background:** Software Livre, Lei Geral de Proteção de Dados Pessoais (LGPD), Administração de Sistemas Linux.
+**Background in:** Free Software, Protection of Personal Data, Administração de Sistemas Linux.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-sanches-b393b2199)
