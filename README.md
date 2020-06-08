@@ -8,17 +8,16 @@
 # Felipe Sanches
 <sub>*Aluno Pesquisador na UFBA - Universidade Federal da Bahia</sub>
 
-Descrição.
 
-**Background in:** Software Livre, Lei Geral de Proteção de Dados Pessoais (LGPD), Administração de Sistemas Linux.
+**Background:** Software Livre, Lei Geral de Proteção de Dados Pessoais (LGPD), Administração de Sistemas Linux.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-sanches-b393b2199)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@felipebsr97)
 
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** 
+* **:** 
 
 ---
