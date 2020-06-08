@@ -17,8 +17,8 @@ Researcher in the areas of Free Software, Data Science, Protection of Personal D
 * [Medium](https://medium.com/@felipebsr97)
 
 
-## Projetos:
+## Projects:
 
-* **Análise dos dados do Airbnb na Ilha de Creta - Grécia:** https://github.com/felipe-sanches/analise-airbnb-creta 
+* **Analysis of Airbnb data on Crete - Greece:** https://github.com/felipe-sanches/analise-airbnb-creta 
 
 ---
