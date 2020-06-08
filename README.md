@@ -18,6 +18,6 @@
 
 ## Projetos:
 
-* **:** 
+* **Análise dos dados do Airbnb na Ilha de Creta - Grécia:** https://github.com/felipe-sanches/analise-airbnb-creta 
 
 ---
