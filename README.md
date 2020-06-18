@@ -4,7 +4,7 @@
 <p align="center">
   <img src="Banner.jpg" >
 </p>
-
+ atualizado
 # Felipe Sanches
 
 Computer student at UFBA - Federal University of Bahia
