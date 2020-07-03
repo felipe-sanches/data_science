@@ -20,6 +20,6 @@ Researcher in the areas of Free Software, Data Science, Protection of Personal D
 ## Projects:
 
 * **Analysis of Airbnb data in Crete - Greece:** https://github.com/felipe-sanches/analise-airbnb-creta 
-* **ANATEL Data Analysis in Bahia - 2019:** In progress
+* **ANATEL Data Analysis in Bahia - 2019:** https://github.com/felipe-sanches/anatel-BA-2019
 * **Data analysis of Violence in Rio de Janeiro:** In progress
 ---
