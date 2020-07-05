@@ -12,6 +12,7 @@ Researcher in the areas of Free Software, Data Science, Protection of Personal D
 
 **Background in:** Free Software, Protection of Personal Data, Administração de Sistemas Linux.
 
+**Email:** felipebsr97@gmail.com
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-sanches-b393b2199)
 * [Medium](https://medium.com/@felipebsr97)
