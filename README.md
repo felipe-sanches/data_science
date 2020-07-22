@@ -25,7 +25,7 @@ Researcher in the areas of Free Software, Data Science, Protection of Personal D
 * **Analysis of Airbnb data in Crete - Greece:** https://github.com/felipe-sanches/analise-airbnb-creta 
 * **ANATEL Data Analysis in Bahia - 2019:** https://github.com/felipe-sanches/anatel-BA-2019 
 * **Dashboard: Covid-19 in Brazil today:**
-	1.  Code: https://github.com/felipe-sanches/covid-19
-	2.  App deploy: http://dashboardcovid-19.herokuapp.com/
+	*  Code: https://github.com/felipe-sanches/covid-19
+	*  App deploy: http://dashboardcovid-19.herokuapp.com/
 
 ---
