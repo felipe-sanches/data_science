@@ -8,9 +8,9 @@
 # Felipe Sanches
 
 Computer student at UFBA - Federal University of Bahia
-Researcher in the areas of Free Software, Data Science, Protection of Personal Data (General Law for the Protection of Personal Data - LGPD and Marco Civil da Internet) and Administration of Linux Servers.
+Researcher in Free Software, Data Science, Protection of Personal Data (General Law for the Protection of Personal Data - LGPD and Marco Civil da Internet) and Administration of Linux Servers areas.
 
-**Background in:** Free Software, Protection of Personal Data, Administração de Sistemas Linux.
+**Background in:** Free Software, Protection of Personal Data, Administration of Linux Servers.
 
 
 **Links:**
@@ -24,7 +24,7 @@ Researcher in the areas of Free Software, Data Science, Protection of Personal D
 
 * **Analysis of Airbnb data in Crete - Greece:** https://github.com/felipe-sanches/analise-airbnb-creta 
 * **ANATEL Data Analysis in Bahia - 2019:** https://github.com/felipe-sanches/anatel-BA-2019 
-* **Dashboard: Covid-19 in Brazil today:**
+* **Dashboard: Covid-19 in Brazil:**
 	*  Code: https://github.com/felipe-sanches/covid-19
 	*  App deploy: http://dashboardcovid-19.herokuapp.com/
 
