@@ -27,6 +27,6 @@ Researcher in Free Software, Data Science, Protection of Personal Data (General 
 * **ANATEL Data Analysis in Bahia - 2019:** https://github.com/felipe-sanches/anatel-BA-2019 
 * **Dashboard: Covid-19 in Brazil:**
 	*  Code: https://github.com/felipe-sanches/covid-19
-	*  App deploy: http://dashboardcovid-19.herokuapp.com/  (a atualizar repositorio)
+	*  App deploy: http://dashboardcovid-19.herokuapp.com/  (outdated repository)
 
 ---
